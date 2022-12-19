@@ -1,2 +1,1 @@
-# .github
-.github readme repo
+# LWS - Little Web Services
